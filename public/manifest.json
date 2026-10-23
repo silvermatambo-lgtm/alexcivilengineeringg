@@ -1,0 +1,25 @@
+{
+  "name": "ALEX Civil Engineering",
+  "short_name": "ALEX",
+  "description": "ALEX Civil Engineering (Pty) Ltd offers construction, plumbing, renovations, electrical work, paving and property maintenance. Call or WhatsApp +27 67 245 9452.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#171d2d",
+  "theme_color": "#f97316",
+  "lang": "en-ZA",
+  "icons": [
+    {
+      "src": "/brand/alex-logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/brand/alex-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

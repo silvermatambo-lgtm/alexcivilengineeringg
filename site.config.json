@@ -1,0 +1,190 @@
+{
+  "templateVersion": "6.0.0",
+  "mode": "client-ready",
+  "clientId": "alex-civil-engineering",
+  "brand": {
+    "name": "ALEX Civil Engineering",
+    "shortName": "ALEX",
+    "tagline": "Strong foundations. Lasting results.",
+    "description": "ALEX Civil Engineering (Pty) Ltd offers construction, plumbing, renovations, electrical work, paving and property maintenance. Call or WhatsApp +27 67 245 9452.",
+    "domain": "https://www.alexcivilengineering.co.za",
+    "logo": "/brand/alex-logo.png",
+    "accent": "#f97316",
+    "accentDark": "#c2410c",
+    "aboutIntro": "From the first groundwork to the final finish, ALEX Civil Engineering (Pty) Ltd brings construction and property services together. We help homeowners and businesses with new builds, renovations, plumbing, electrical work and ongoing maintenance.",
+    "mission": "To turn building and property needs into practical, carefully executed solutions.",
+    "vision": "To build lasting relationships through dependable workmanship and clear communication.",
+    "values": [
+      "Care in every detail",
+      "Clear, straightforward communication",
+      "Practical solutions from ground to finish"
+    ],
+    "socialImage": "/brand/alex-logo.png"
+  },
+  "contact": {
+    "phone": "+27 67 245 9452",
+    "whatsapp": "27672459452",
+    "email": "info@alexcivilengineering.co.za",
+    "address": "",
+    "mapEmbedUrl": "",
+    "hours": "Contact us to arrange a site visit",
+    "serviceArea": "Contact us to confirm availability in your area",
+    "website": "https://www.alexcivilengineering.co.za"
+  },
+  "social": {
+    "facebook": "",
+    "instagram": "",
+    "tiktok": "",
+    "linkedin": "",
+    "youtube": ""
+  },
+  "features": {
+    "pwaEnabled": false,
+    "showInstallPrompt": false,
+    "chatAssistant": false,
+    "showTestimonials": false,
+    "showGallery": true
+  },
+  "pwa": {
+    "shortName": "ALEX",
+    "cacheVersion": "v1",
+    "icon192": "/brand/alex-logo.png",
+    "icon512": "/brand/alex-logo.png"
+  },
+  "heroSlides": [
+    {
+      "eyebrow": "ALEX CIVIL ENGINEERING (PTY) LTD",
+      "heading": "Built with purpose.",
+      "highlight": "Made to last.",
+      "description": "Construction, renovations and property services. One team to help bring your next project to life.",
+      "image": "/brand/project-1.jpeg"
+    },
+    {
+      "eyebrow": "FROM THE GROUND UP",
+      "heading": "Strong foundations.",
+      "highlight": "Better possibilities.",
+      "description": "Groundworks, plumbing and drainage solutions that put the essentials of your property first.",
+      "image": "/brand/project-7.jpeg"
+    },
+    {
+      "eyebrow": "CARE IN EVERY DETAIL",
+      "heading": "Transform your space.",
+      "highlight": "Finish with pride.",
+      "description": "From paving and renovations to everyday maintenance, let’s make your property work better for you.",
+      "image": "/brand/project-8.jpeg"
+    }
+  ],
+  "services": [
+    {
+      "id": "construction",
+      "name": "Construction & civil works",
+      "summary": "Build from a solid foundation.",
+      "details": "New construction, site preparation, masonry and general building work. Share your plans with us to discuss the scope.",
+      "image": "/brand/project-1.jpeg"
+    },
+    {
+      "id": "plumbing",
+      "name": "Plumbing & drainage",
+      "summary": "Keep water flowing where it should.",
+      "details": "Plumbing installations, pipework, drainage and repairs for building and property projects.",
+      "image": "/brand/project-3.jpeg"
+    },
+    {
+      "id": "renovations",
+      "name": "Renovations & alterations",
+      "summary": "Make more of the space you have.",
+      "details": "Property upgrades, alterations and finishing work shaped around your needs and existing space.",
+      "image": "/brand/project-2.jpeg"
+    },
+    {
+      "id": "electrical",
+      "name": "Electrical services",
+      "summary": "Practical power solutions for your property.",
+      "details": "Discuss electrical installations, repairs and upgrades with our team so we can assess your requirements.",
+      "image": "/brand/project-4.jpeg"
+    },
+    {
+      "id": "maintenance",
+      "name": "Property maintenance",
+      "summary": "Look after what you have built.",
+      "details": "General repairs and ongoing maintenance for homes, business premises and surrounding spaces.",
+      "image": "/brand/project-5.jpeg"
+    },
+    {
+      "id": "paving",
+      "name": "Paving & exterior works",
+      "summary": "A considered finish, inside and out.",
+      "details": "Driveways, walkways, paving, access steps and exterior improvements to complete your project.",
+      "image": "/brand/project-6.jpeg"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "project-1",
+      "title": "Paving & site preparation",
+      "category": "Construction & paving",
+      "image": "/brand/project-1.jpeg"
+    },
+    {
+      "id": "project-2",
+      "title": "Masonry & access steps",
+      "category": "Construction & paving",
+      "image": "/brand/project-2.jpeg"
+    },
+    {
+      "id": "project-3",
+      "title": "Drainage installation",
+      "category": "Plumbing & infrastructure",
+      "image": "/brand/project-3.jpeg"
+    },
+    {
+      "id": "project-4",
+      "title": "Underground services",
+      "category": "Plumbing & infrastructure",
+      "image": "/brand/project-4.jpeg"
+    },
+    {
+      "id": "project-5",
+      "title": "Drainage chamber",
+      "category": "Plumbing & infrastructure",
+      "image": "/brand/project-5.jpeg"
+    },
+    {
+      "id": "project-6",
+      "title": "Residential paving",
+      "category": "Construction & paving",
+      "image": "/brand/project-6.jpeg"
+    },
+    {
+      "id": "project-7",
+      "title": "Water infrastructure",
+      "category": "Plumbing & infrastructure",
+      "image": "/brand/project-7.jpeg"
+    },
+    {
+      "id": "project-8",
+      "title": "Paving in progress",
+      "category": "Construction & paving",
+      "image": "/brand/project-8.jpeg"
+    }
+  ],
+  "testimonials": [],
+  "faqs": [
+    {
+      "question": "What services do you offer?",
+      "answer": "We offer construction and civil works, plumbing and drainage, renovations, electrical services, paving and property maintenance. Contact us to discuss the work you need."
+    },
+    {
+      "question": "How do I request a quotation?",
+      "answer": "Call or WhatsApp +27 67 245 9452, or email info@alexcivilengineering.co.za. Include your location, a description of the work and any useful photos or plans."
+    },
+    {
+      "question": "Can you assess my project on site?",
+      "answer": "Contact the team to discuss your project and arrange a suitable site visit where required."
+    },
+    {
+      "question": "Which areas do you cover?",
+      "answer": "Send us your project location so we can confirm availability and discuss travel requirements."
+    }
+  ]
+}
